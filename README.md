@@ -58,11 +58,9 @@ Key objectives include:
 - Preprocessing steps, feature engineering, scaling, and train-test splits are included.  
 - All model training and evaluation code is provided in the Jupyter Notebook.  
 
-- ## Author
+## Author
 - Rimsha Iram
 - [Check Portfolio](https://www.datascienceportfol.io/rimshairamanalytics)
 - Let’s connect on [LinkedIn](https://www.linkedin.com/in/rimsha-iram-analytics)
 
 
----
-tlib seaborn scikit-learn yfinance tensorflow
